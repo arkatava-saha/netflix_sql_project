@@ -250,3 +250,7 @@ Content Categorization: Categorizing content based on specific keywords helps in
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
+
+Email - papaysaha4321@gmail.com
+Linkedin - www.linkedin.com/in/arkatava-saha-11b66a1b7
+
