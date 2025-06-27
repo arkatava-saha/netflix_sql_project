@@ -112,9 +112,10 @@ WHERE
 
 Objective: Find the movie with the longest duration.
 
-```sql
-6. Find Content Added in the Last 5 Years
 
+## 6. Find Content Added in the Last 5 Years
+
+```sql
 SELECT *
 FROM netflix
 WHERE
