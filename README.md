@@ -44,9 +44,10 @@ CREATE TABLE netflix
 ```
 ## Business Problems and Solutions
 
-```sql
-1. Count the Number of Movies vs TV Shows
 
+## 1. Count the Number of Movies vs TV Shows
+
+```sql
 SELECT
 type,
 COUNT(*) as total_content
